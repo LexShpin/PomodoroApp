@@ -1,0 +1,8 @@
+* {
+    /* border: 1px solid red; */
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+}
