@@ -5,6 +5,7 @@ import s from './Logo.module.css'
 const Logo = () => (
     <div>
         <img src={logo} className={s.logo} />
+        Hello, world
     </div>
 )
 
