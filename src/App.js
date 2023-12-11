@@ -8,6 +8,9 @@ const App = () => (
       <Header />
       <Timer />
       <Footer />
+      <div>
+        hello
+      </div>
     </div>
 )
 
